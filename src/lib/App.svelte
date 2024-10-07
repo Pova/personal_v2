@@ -1,10 +1,10 @@
 <script>
-  import Navbar from './Navbar.svelte';
+  import Navbar from './Navbar_v2.svelte';
   import Footer from './Footer.svelte';
   import ThreeScene from './ThreeScene.svelte';
 </script>
 
-<Navbar title="Roman Kitsela" />
+<Navbar />
 
 <main class="bg-gray-100">
 
